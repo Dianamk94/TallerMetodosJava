@@ -23,9 +23,4 @@ public class Ejercicio2Calificaciones {
 }
 
 
-//if (promedio() >= 60){
-//        return "Felicidades aprobo"
-//
-//        } else {
-//        return "No aprobo"
-//        }
+
